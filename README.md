@@ -37,7 +37,7 @@ This repository contains a comprehensive analysis of ATM locations in New York S
 4. Check the output files:
    - Charts: `top_10_cities_atm.png`, `top_10_counties_atm.png`, `top_10_banks_[city].png`, `nyc_atm_pie.png`, `nyc_atm_by_county.png`, `institution_type_pie.png`
    - Heatmap: `atm_heatmap.html`
-   - Report: `senior_atm_report.txt`
+   - Report: `atm_report.txt`
 
 ## Notes
 - The dataset does not include transaction data (cash vs. card). Recommendations for collecting such data are included in the report.
