@@ -1,0 +1,88 @@
+
+ATM Analysis Report - New York State
+Report Date: 2025-09-06 20:33:51
+
+1. Overview
+- Total ATMs: 4914
+- Total Cities: 1178
+- Total Counties: 62
+- Total Financial Institutions: 225
+
+2. Top Cities
+City
+New York         349
+Brooklyn         225
+NEW YORK         182
+BROOKLYN         111
+Rochester         99
+Bronx             85
+Buffalo           68
+Staten Island     64
+Albany            52
+Syracuse          51
+- Top City: New York
+  - Number of ATMs: 349
+  - Top Banks:
+Name of Institution
+Citibank N. A.                               88
+Bank of America N.A. GA1-006-15-40           70
+TD Bank N.A.                                 61
+Wells Fargo ATM                              28
+Banco Popular North America                  15
+Commerce Bank, N.A.                          10
+JPMorgan Chase Bank, National Association     9
+Santander Bank                                7
+Apple Bank                                    6
+Manufacturers and Traders Trust Company       6
+
+3. Counties
+County
+New York       552
+Nassau         418
+Suffolk        392
+Queens         348
+Kings          333
+Westchester    256
+Erie           254
+Monroe         226
+Onondaga       175
+Albany         143
+- Counties with <5 ATMs (Investment Opportunities):
+County
+Hamilton    3
+
+4. NYC
+- Total ATMs: 1470
+- Distribution by County:
+County
+New York    552
+Queens      348
+Kings       333
+Bronx       137
+Richmond    100
+- Top Banks:
+Name of Institution
+JPMorgan Chase Bank, National Association    295
+Citibank N. A.                               168
+TD Bank N.A.                                 152
+Bank of America N.A. GA1-006-15-40           138
+Santander Bank                                66
+Flagstar Bank, N.A.                           65
+Apple Bank                                    50
+Capital One, N.A.                             48
+Wells Fargo ATM                               46
+Citizens Bank                                 37
+
+5. Banks vs Credit Unions
+- Statewide:
+Institution Type
+Bank            4226
+Credit Union     688
+- NYC:
+Institution Type
+Bank            1434
+Credit Union      36
+
+Outputs:
+- Charts: top_10_cities_atm.png, top_10_counties_atm.png, top_10_banks_[city].png, nyc_atm_pie.png, nyc_atm_by_county.png, institution_type_pie.png
+- Heatmap: atm_heatmap.html
